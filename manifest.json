@@ -1,0 +1,11 @@
+{
+  "name": "Task Mada 🇲🇬",
+  "short_name": "Task Mada",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eef2f7",
+  "theme_color": "#087f5b",
+  "description": "Task Mada - Missions, preuves et récompenses.",
+  "lang": "fr"
+}
